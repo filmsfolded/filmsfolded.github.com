@@ -1,0 +1,5 @@
+Rerun make_posts
+  add movie year
+  add director, writer (from tmdb)
+
+Add in ratings from old mysql database
